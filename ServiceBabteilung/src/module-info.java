@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author timbergmann
+ *
+ */
+module ServiceBabteilung {
+}
